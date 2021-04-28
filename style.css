@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color:rgb(14, 14, 54);
+}
+.form-group {
+    background-color: rgb(92, 92, 92);
+    color: white;
+    width: 25rem;
+    height: 350px;
+    text-align: center;   
+    margin: auto;
+    margin-top: 115px;
+}
+.contact2-form-title {
+    font-size: 2.5rem;
+}
+.input {
+    width: auto;
+    height: 2.5rem;
+    border: 2px solid rgb(170, 114, 170);
+    font-size: 1.3rem;
+    text-align: left;
+}
+#result {
+    font-size: 1.8rem;   
+    border: 2px solid rgb(170, 114, 170);
+    width: auto;
+    height: 2.5rem; 
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    color: black; 
+}
+.contact2-form-btn {
+    font-size: 18px;
+    padding: 13px 50px;
+    background-color: rgb(63, 31, 95);
+    color: white;
+}
